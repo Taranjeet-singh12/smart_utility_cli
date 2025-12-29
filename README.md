@@ -11,3 +11,9 @@ A beginner-friendly Python command-line tool that performs:
 
 ```bash
 python main.py
+
+Concepts Used
+
+if / elif / else
+input validation
+Python CLI basics
